@@ -1,0 +1,16 @@
+pimcore:
+    assets:
+        metadata:
+            predefined:
+                definitions:
+                    e776960c-ce3f-4b31-9b3d-714b48e3ab95:
+                        name: Pliki
+                        description: ''
+                        type: input
+                        targetSubtype: null
+                        data: ''
+                        config: ''
+                        language: null
+                        group: ''
+                        creationDate: 1740841832
+                        modificationDate: 1740842610
